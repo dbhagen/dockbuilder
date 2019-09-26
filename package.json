@@ -1,0 +1,25 @@
+{
+  "name": "dockbuilder",
+  "version": "1.0.0",
+  "description": "Dockerfile Creation Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbhagen/dockbuilder.git"
+  },
+  "keywords": [
+    "Docker",
+    "builder",
+    "automation",
+    "generate"
+  ],
+  "author": "Daniel B. Hagen <daniel.b.hagen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbhagen/dockbuilder/issues"
+  },
+  "homepage": "https://github.com/dbhagen/dockbuilder#readme"
+}
